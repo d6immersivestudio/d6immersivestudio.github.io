@@ -1,6 +1,7 @@
-.heaedr-dummy{
+.heaedr-dummy {
     /* height: 5rem; */
 }
+
 .header-wrapper {
     position: fixed;
     /* margin-top: -5rem; */
@@ -10,9 +11,11 @@
     background-color: #d017f5c4;
     /* background-image: repeating-linear-gradient(36deg, rgba(255,255,255, 0.1), rgba(255,255,255, 0.1) 1px, transparent 0px, transparent 2px); */
 }
+
 .header-home-navm {
     display: inline-block;
 }
+
 .nav-btn {
     border: none;
     background: transparent;
@@ -22,8 +25,7 @@
     font-family: cursive;
 }
 
-.nav-btn--academy
-{
+.nav-btn--academy {
     border: 1px;
     background-color: rgb(231 16 187);
     padding: 10px;
@@ -31,9 +33,15 @@
     width: 7rem;
     color: #ffebcd;
 }
+
 .nav-menu {
     margin: 1rem auto;
     float: right;
+}
+
+.logo {
+    width: 25%;
+    margin: 1rem;
 }
 .home-banner video {
     width: 100%;
